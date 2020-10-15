@@ -1,56 +1,56 @@
 @media (max-width: 1000px){
 
-	.lesson{
-		width: 50%;
-	}
+  .lesson{
+    width: 50%;
+  }
 
-	.top-wrapper h1 {
- 	   font-size: 32px;
-  	}
+  .top-wrapper h1 {
+     font-size: 32px;
+    }
   
-  	.heading h2 {
-    	font-size: 20px;
-  	}
+    .heading h2 {
+      font-size: 20px;
+    }
 }
 
 @media (max-width: 670px){
 
-	.lesson{
-		width:100%
-	}
+  .lesson{
+    width:100%
+  }
 
-	.header-right{
-		display: none;
-	}
+  .header-right{
+    display: none;
+  }
 
-	.logo{
-  		width: 100px;
-  		position: absolute;
-  		margin-top: 10px
-  	}
+  .logo{
+      width: 100px;
+      position: absolute;
+      margin-top: 10px
+    }
 
-  	.menu-icon{
-   		display:block;
-  	}
+    .menu-icon{
+      display:block;
+    }
 
-  	.slider h2{
-  		font-size: 14px;
-  	}
-  	.slider p{
-  		font-size: 10px;
-  	}
+    .slider h2{
+      font-size: 14px;
+    }
+    .slider p{
+      font-size: 10px;
+    }
 
-  	.lesson-text{
-  		font-size: 14px;
-  	}
+    .lesson-text{
+      font-size: 14px;
+    }
 
-  	.lesson-wrapper h1{
-  		font-size: 30px;
-  	}
-	
-	footer li{
-		text-align: left;
-	}
+    .lesson-wrapper h1{
+      font-size: 30px;
+    }
+  
+  footer li{
+    text-align: left;
+  }
 
 
 }
