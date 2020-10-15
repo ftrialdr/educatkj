@@ -1,0 +1,60 @@
+@media (max-width: 1000px){
+
+	.lesson{
+		width: 50%;
+	}
+
+	.top-wrapper h1 {
+ 	   font-size: 32px;
+  	}
+  
+  	.heading h2 {
+    	font-size: 20px;
+  	}
+}
+
+@media (max-width: 670px){
+
+	.lesson{
+		width:100%
+	}
+
+	.header-right{
+		display: block;
+	}
+
+	.logo{
+  		width: 100px;
+  		position: absolute;
+  		margin-top: 10px
+  	}
+
+  	.menu-icon{
+   		display:none;
+  	}
+
+  	.slider h2{
+  		font-size: 14px;
+  	}
+  	.slider p{
+  		font-size: 10px;
+  	}
+
+  	.lesson-text{
+  		font-size: 14px;
+  	}
+
+  	.lesson-wrapper h1{
+  		font-size: 30px;
+  	}
+	
+	footer li{
+		text-align: center;
+	}
+
+	.footer-list{
+
+	}
+
+
+}
