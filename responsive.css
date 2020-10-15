@@ -33,22 +33,12 @@
    		display:none;
   	}
 
-    .slider{
-      overflow: hidden;
-      height: 200px;
-    }
-
   	.slider h2{
   		font-size: 14px;
   	}
   	.slider p{
   		font-size: 10px;
   	}
-
-    .profile-wrapper{
-      overflow: hidden;
-      height: 200px;z
-    }
 
   	.lesson-text{
   		font-size: 14px;
