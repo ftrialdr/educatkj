@@ -45,6 +45,11 @@
   		font-size: 10px;
   	}
 
+    .profile-wrapper{
+      overflow: hidden;
+      height: 200px;z
+    }
+
   	.lesson-text{
   		font-size: 14px;
   	}
