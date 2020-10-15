@@ -182,7 +182,7 @@ header {
 
 .slider{
   overflow: hidden;
-  height: 200px;
+  height: 500px;
 }
 
 .slider figure div{
@@ -197,7 +197,7 @@ header {
 
 .slider figure{
   position: relative;
-  width: 100%;
+  width: 500%;
   margin: 0;
   left: 0;
   animation: 50s slidy infinite;
