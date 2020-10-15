@@ -20,7 +20,7 @@
 	}
 
 	.header-right{
-		display: block;
+		display: none;
 	}
 
 	.logo{
@@ -30,7 +30,7 @@
   	}
 
   	.menu-icon{
-   		display:none;
+   		display:block;
   	}
 
   	.slider h2{
