@@ -33,6 +33,11 @@
    		display:none;
   	}
 
+    .slider{
+      overflow: hidden;
+      height: 200px;
+    }
+
   	.slider h2{
   		font-size: 14px;
   	}
